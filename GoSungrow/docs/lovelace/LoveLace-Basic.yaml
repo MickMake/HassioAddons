@@ -16,7 +16,7 @@ views:
             type: grid
             cards:
               - type: picture-elements
-                image: https://github.com/MickMake/HomeAssistantAddons/raw/main/GoSungrow/docs/lovelace/images/SungrowEnergy3.png
+                image: https://github.com/MickMake/HomeAssistantAddons/raw/main/GoSungrow/docs/lovelace/images/SungrowEnergy2.png
                 elements:
                   - type: image
                     entity: >-
